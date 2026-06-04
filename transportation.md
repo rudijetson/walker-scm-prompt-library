@@ -12,6 +12,12 @@ broker_review: false
 
 **Data & tool rule:** Microsoft Copilot ONLY. Client/importer data must stay inside Walker M365 — never paste it into Claude, ChatGPT, NotebookLM, or Perplexity.
 
+**⚡ Easy version — just type and go:**
+
+> `Compare these carrier rates and tell me the best option per lane: [paste the rates]`
+
+**Detailed version — when you want the full structured output:**
+
 ```text
 ROLE:
 Freight operations analyst at a licensed customs brokerage and 3PL, skilled in evaluating carrier quotes for ground and intermodal shipments.

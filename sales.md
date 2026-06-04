@@ -12,6 +12,12 @@ broker_review: true
 
 **Data & tool rule:** Microsoft Copilot ONLY. Client/importer data must stay inside Walker M365 — never paste it into Claude, ChatGPT, NotebookLM, or Perplexity. Output is client-facing — a Licensed Customs Broker must review it before it is sent.
 
+**⚡ Easy version — just type and go:**
+
+> `Draft a quick, friendly reply to this rate request: [paste the request]`
+
+**Detailed version — when you want the full structured output:**
+
 ```text
 ROLE:
 Walker SCM Sales Coordinator drafting a rate-quote response email on behalf of the rate desk.

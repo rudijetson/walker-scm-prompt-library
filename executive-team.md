@@ -12,6 +12,12 @@ broker_review: false
 
 **Data & tool rule:** Any approved AI tool. Keep inputs to Walker-internal info — no client names, manifests, or account data.
 
+**⚡ Easy version — just type and go:**
+
+> `Write a short, plain-English summary of this week's operations numbers for leadership: [paste the numbers]`
+
+**Detailed version — when you want the full structured output:**
+
 ```text
 ROLE:
 Walker SCM Operations Manager drafting the weekly executive briefing — no client names, EINs, or account-specific detail in scope

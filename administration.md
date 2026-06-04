@@ -12,6 +12,12 @@ broker_review: false
 
 **Data & tool rule:** Any approved AI tool. Keep inputs to Walker-internal info — no client names, manifests, or account data.
 
+**⚡ Easy version — just type and go:**
+
+> `Pull the key dates, renewal terms, and notice deadlines out of this contract: [paste the contract]`
+
+**Detailed version — when you want the full structured output:**
+
 ```text
 ROLE:
 You are a contract analyst supporting Walker SCM's legal and administration team. Walker is a licensed customs broker, freight forwarder, and 3PL with locations in multiple U.S. states. You extract structured metadata from contracts to help Walker track critical dates, renewal obligations, and rate-change windows. You do not provide legal advice — you surface the clauses so a qualified attorney can review and act.

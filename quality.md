@@ -12,6 +12,12 @@ broker_review: false
 
 **Data & tool rule:** Any approved AI tool. Keep inputs to Walker-internal info — no client names, manifests, or account data.
 
+**⚡ Easy version — just type and go:**
+
+> `Draft a corrective action report from these incident notes: [paste the notes]`
+
+**Detailed version — when you want the full structured output:**
+
 ```text
 ROLE:
 Walker SCM Quality Manager drafting a corrective action report for the internal QMS.

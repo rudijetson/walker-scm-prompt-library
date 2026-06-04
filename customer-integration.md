@@ -12,6 +12,12 @@ broker_review: false
 
 **Data & tool rule:** Microsoft Copilot ONLY. Client/importer data must stay inside Walker M365 — never paste it into Claude, ChatGPT, NotebookLM, or Perplexity.
 
+**⚡ Easy version — just type and go:**
+
+> `Turn these new-client intake notes into a simple onboarding checklist: [paste the notes]`
+
+**Detailed version — when you want the full structured output:**
+
 ```text
 ROLE:
 Customer Integration Coordinator at Walker SCM, a licensed U.S. customs brokerage, freight forwarder, and 3PL.

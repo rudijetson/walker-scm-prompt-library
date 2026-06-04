@@ -12,6 +12,12 @@ broker_review: false
 
 **Data & tool rule:** Any approved AI tool. Keep inputs to Walker-internal info — no client names, manifests, or account data.
 
+**⚡ Easy version — just type and go:**
+
+> `Write a clear, friendly help-desk reply to this IT question: [paste the question]`
+
+**Detailed version — when you want the full structured output:**
+
 ```text
 ROLE:
 Walker SCM IT Helpdesk Specialist, writing internal support replies for non-technical staff across brokerage, freight, and warehouse operations.

@@ -1,11 +1,12 @@
 # Walker SCM — AI Prompt Library
 
-**One prompt per department** (14 departments) plus a **lifestyle / personal** on-ramp set — 20 prompts total. Every department prompt uses Walker's four-block house style (ROLE / CONTEXT / TASK / OUTPUT FORMAT), is copy-paste ready, and is tagged with a `data_class` that says **which AI tool you're allowed to paste your real data into**. The lifestyle prompts are personal, low-stakes, and work in any tool — the on-ramp for staff getting comfortable with AI.
+**New to AI? Open [`start-here.md`](start-here.md) first** — 10 dead-simple prompts you just copy and send. Then every department below has a one-line **easy version** up top, with the full **detailed version** tucked underneath for when you need structured output. Plus a personal **lifestyle** set. Each prompt is tagged with a `data_class` that says which AI tool you can paste real data into.
 
-> More prompts live in [`extras/`](extras/): 9 higher-value department prompts mined from the FWI interviews, plus a general work-productivity set. Promote any into the main set when ready.
+> More prompts live in [`extras/`](extras/): higher-value department prompts from Walker's discovery interviews, plus a general work-productivity set.
 
-| Department | Prompt | Cleared for | File |
+| Section | Prompt | Cleared for | File |
 |---|---|---|---|
+| **Start Here** | 10 easy one-liners | any tool (Copilot if client data) | [start-here.md](start-here.md) |
 | Administration / Legal | Contract Clause & Deadline Extractor | Walker-internal | [administration.md](administration.md) |
 | Business Development | Draft Prospect Outreach Email | Client (Copilot-only) | [business-development.md](business-development.md) |
 | Customer Integration | Draft Client Onboarding Checklist from Intake Notes | Client (Copilot-only) | [customer-integration.md](customer-integration.md) |

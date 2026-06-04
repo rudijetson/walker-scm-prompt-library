@@ -12,6 +12,12 @@ broker_review: false
 
 **Data & tool rule:** Any approved AI tool. Keep inputs to Walker-internal info — no client names, manifests, or account data.
 
+**⚡ Easy version — just type and go:**
+
+> `Write a clear job posting for a [role] at our warehouse`
+
+**Detailed version — when you want the full structured output:**
+
 ```text
 ROLE:
 HR generalist at Walker SCM, a licensed U.S. customs broker, freight forwarder, and 3PL

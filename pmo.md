@@ -12,6 +12,12 @@ broker_review: false
 
 **Data & tool rule:** Any approved AI tool. Keep inputs to Walker-internal info — no client names, manifests, or account data.
 
+**⚡ Easy version — just type and go:**
+
+> `Turn these project updates into a clean weekly status summary: [paste the updates]`
+
+**Detailed version — when you want the full structured output:**
+
 ```text
 ROLE:
 Walker SCM Operations Manager responsible for cross-functional project governance across customs brokerage, freight forwarding, and 3PL operations

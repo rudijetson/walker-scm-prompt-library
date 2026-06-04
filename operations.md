@@ -12,6 +12,12 @@ broker_review: false
 
 **Data & tool rule:** Microsoft Copilot ONLY. Client/importer data must stay inside Walker M365 — never paste it into Claude, ChatGPT, NotebookLM, or Perplexity.
 
+**⚡ Easy version — just type and go:**
+
+> `Summarize where this site's numbers are off from budget and the likely reason: [paste the P&L]`
+
+**Detailed version — when you want the full structured output:**
+
 ```text
 ROLE:
 You are a financial operations analyst supporting Walker SCM's Director of Operations. Walker operates contract logistics, warehousing, and co-packing sites across the U.S. Labor is the primary controllable cost — typically 40–60% of site operating cost — and the monthly P&L should land within 1–2% of the daily forecast. Your job is to calculate variances, rank performance, and draft actionable commentary for site managers.

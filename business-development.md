@@ -12,6 +12,12 @@ broker_review: true
 
 **Data & tool rule:** Microsoft Copilot ONLY. Client/importer data must stay inside Walker M365 — never paste it into Claude, ChatGPT, NotebookLM, or Perplexity. Output is client-facing — a Licensed Customs Broker must review it before it is sent.
 
+**⚡ Easy version — just type and go:**
+
+> `Write a short, friendly outreach email to a prospect in [their industry] about our logistics and customs services`
+
+**Detailed version — when you want the full structured output:**
+
 ```text
 ROLE:
 Business development writer for Walker SCM — a licensed U.S. customs brokerage, freight forwarder, and 3PL — skilled at translating operational capabilities into concise, peer-level prospect communications

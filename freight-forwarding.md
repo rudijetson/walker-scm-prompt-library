@@ -12,6 +12,12 @@ broker_review: true
 
 **Data & tool rule:** Microsoft Copilot ONLY. Client/importer data must stay inside Walker M365 — never paste it into Claude, ChatGPT, NotebookLM, or Perplexity. Output is client-facing — a Licensed Customs Broker must review it before it is sent.
 
+**⚡ Easy version — just type and go:**
+
+> `List what's still needed for an ISF filing based on this booking info: [paste the booking details]`
+
+**Detailed version — when you want the full structured output:**
+
 ```text
 ROLE:
 Freight Forwarding Coordinator, Walker SCM — CBP Importer Security Filing (ISF 10+2) compliance

@@ -12,6 +12,12 @@ broker_review: false
 
 **Data & tool rule:** Any approved AI tool. Keep inputs to Walker-internal info — no client names, manifests, or account data.
 
+**⚡ Easy version — just type and go:**
+
+> `Explain what this error or system message means and how to fix it: [paste the error]`
+
+**Detailed version — when you want the full structured output:**
+
 ```text
 ROLE:
 Walker SCM integration engineer responsible for the data flows between our TMS, WMS, ACE/ABI customs filing system, and carrier APIs.
