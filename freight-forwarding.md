@@ -2,7 +2,7 @@
 department: freight-forwarding
 department_name: Freight Forwarding
 title: Draft ISF Filing Checklist from Booking Data
-data_class: Client (Copilot-only)
+data_class: Client (Copilot or Claude)
 broker_review: true
 ---
 
@@ -10,7 +10,7 @@ broker_review: true
 
 **Use when:** Preparing an Importer Security Filing (10+2) for an ocean shipment and verifying all required data elements are present before submission.
 
-**Data & tool rule:** Microsoft Copilot ONLY. Client/importer data must stay inside Walker M365 — never paste it into Claude, ChatGPT, NotebookLM, or Perplexity. Output is client-facing — a Licensed Customs Broker must review it before it is sent.
+**Data & tool rule:** Microsoft Copilot or Walker's enterprise Claude — both keep client data under Walker's data agreement. Don't paste client data into ChatGPT, Perplexity, NotebookLM, or personal AI accounts. Output is client-facing — a Licensed Customs Broker must review it before it is sent.
 
 **⚡ Easy version — just type and go:**
 

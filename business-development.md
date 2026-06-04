@@ -2,15 +2,15 @@
 department: business-development
 department_name: Business Development
 title: Draft Prospect Outreach Email
-data_class: Client (Copilot-only)
-broker_review: true
+data_class: Walker-internal
+broker_review: false
 ---
 
 # Draft Prospect Outreach Email
 
 **Use when:** Drafting a cold or warm outreach email to a new import/export prospect before sending
 
-**Data & tool rule:** Microsoft Copilot ONLY. Client/importer data must stay inside Walker M365 — never paste it into Claude, ChatGPT, NotebookLM, or Perplexity. Output is client-facing — a Licensed Customs Broker must review it before it is sent.
+**Data & tool rule:** Any approved AI tool. Keep inputs to Walker-internal info — no client names, manifests, or account data.
 
 **⚡ Easy version — just type and go:**
 

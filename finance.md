@@ -2,7 +2,7 @@
 department: finance
 department_name: Finance
 title: Billing Exception Audit (Complex Account)
-data_class: Client (Copilot-only)
+data_class: Client (Copilot or Claude)
 broker_review: false
 ---
 
@@ -10,7 +10,7 @@ broker_review: false
 
 **Use when:** Before invoicing a complex, manually-billed account (any high-volume account where billing is tracked by hand): cross-check expected billable activity against the billing spreadsheet and any drafted invoices to catch missing, unbilled, mis-rated, or duplicate items before they go out the door.
 
-**Data & tool rule:** Microsoft Copilot ONLY. Client/importer data must stay inside Walker M365 — never paste it into Claude, ChatGPT, NotebookLM, or Perplexity.
+**Data & tool rule:** Microsoft Copilot or Walker's enterprise Claude — both keep client data under Walker's data agreement. Don't paste client data into ChatGPT, Perplexity, NotebookLM, or personal AI accounts.
 
 **⚡ Easy version — just type and go:**
 

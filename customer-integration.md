@@ -2,7 +2,7 @@
 department: customer-integration
 department_name: Customer Integration
 title: Draft Client Onboarding Checklist from Intake Notes
-data_class: Client (Copilot-only)
+data_class: Client (Copilot or Claude)
 broker_review: false
 ---
 
@@ -10,7 +10,7 @@ broker_review: false
 
 **Use when:** A new client has been signed and you need to convert raw intake notes into a structured onboarding action list for Walker's internal team.
 
-**Data & tool rule:** Microsoft Copilot ONLY. Client/importer data must stay inside Walker M365 — never paste it into Claude, ChatGPT, NotebookLM, or Perplexity.
+**Data & tool rule:** Microsoft Copilot or Walker's enterprise Claude — both keep client data under Walker's data agreement. Don't paste client data into ChatGPT, Perplexity, NotebookLM, or personal AI accounts.
 
 **⚡ Easy version — just type and go:**
 
