@@ -1,3 +1,18 @@
+# Source consolidated into Walker SCM Tenant
+
+Active source and future changes are maintained in
+[walker-scm-tenant/content/prompts](https://github.com/learnrudi/walker-scm-tenant/tree/main/content/prompts).
+The original history was imported without squashing in
+[tenant PR 12](https://github.com/learnrudi/walker-scm-tenant/pull/12).
+
+[Public Walker tools and training](https://learnrudi.github.io/walker-scm-tenant/)
+remain available. Existing file/commit URLs and non-HTML assets are retained;
+old published HTML entry pages redirect with query strings and fragments intact.
+This repository is retained for history and compatibility and is scheduled for
+read-only archival after verification. Its existing visibility is unchanged.
+
+---
+
 # Walker SCM — AI Prompt Library
 
 **New to AI? Open [`start-here.md`](start-here.md) first** — 10 dead-simple prompts you just copy and send. Then every department below has a one-line **easy version** up top, with the full **detailed version** underneath. Plus a personal **lifestyle** set. Each prompt is tagged with a `data_class` that says which AI tool you can paste real data into.
